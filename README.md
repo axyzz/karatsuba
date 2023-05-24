@@ -1,2 +1,2 @@
 # karatsuba
-Karatsuba algorithm realization on pytohn
+Karatsuba algorithm realization on python. 
